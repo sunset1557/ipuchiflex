@@ -1,0 +1,55 @@
+header{
+    background-color:BurlyWood;
+    
+}
+header h1{
+    text-align:center;
+    font-family:sans-serif;
+}
+.ip{
+    color:Tan;
+    text-align:center;
+    border:4px dotted SaddleBrown;
+    border-radius:20px;
+}.es{
+    border-right: 40px double burlywood;
+}
+
+.dia img{
+    width:50px;
+    height:50px;
+    float:left;
+}
+.dia p{
+    font-family:sans-serif;
+    font-size:20px;
+    
+
+}
+.dia{
+    background-color:NavajoWhite;
+}
+a{
+    text-decoration:none;
+    color:burlywood;
+    text-align:center;
+    font-family:sans-serif;
+    border:2px solid tan;
+    border-radius:10px;
+    font-size:40px;
+}
+.uni{
+    text-align:center;
+    font-family:sans-serif;
+
+
+}
+.gav{
+    font-family:sans-serif;
+    font-size:20px;
+}
+.qq{
+    background-color:Cornsilk;
+    border:3px solid burlywood;
+    border-radius:10px;
+}
